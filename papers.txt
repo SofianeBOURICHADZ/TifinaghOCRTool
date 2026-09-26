@@ -1,0 +1,11 @@
+Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition (Jaderberg et al., 2014)
+
+Synthetic Data for Text Localisation in Natural Images (Gupta et al., 2016)
+
+An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (Shi et al., 2016)
+
+Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks (Graves et al., 2006)
+
+Real-time Scene Text Detection with Differentiable Binarization (DBNet) (Liao et al., 2020)
+
+EAST: An Efficient and Accurate Scene Text Detector (Zhou et al., 2017)
